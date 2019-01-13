@@ -4,5 +4,10 @@
         "smallText": "Innovacion Ciberseguridad Soluciones",
         "leftButtonText": "Contacto",
         "rightButtonText": "Saber más"
+    },
+    "navbar": {
+        "about": "Sobre Nosotros",
+        "services": "Nuestros Servicios",
+        "contact": "Contáctanos"
     }
 }
