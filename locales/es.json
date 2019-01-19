@@ -59,12 +59,11 @@
         "p04": "El sistema de trazabilidad de los productos está diseñado bajo la arquitectura de Blockchain, dando integridad de los datos almacenados y ofreciendo automatización de los procesos. La eficiencia en la operativa ahorra de manera significativa los costes de las empresas de logística."
     },
     "service07": {
-        "title": "",
-        "p01": "",
-        "p02": "",
-        "p03": "",
-        "p04": "",
-        "p05": ""
+        "title": "Cerraduras inteligentes",
+        "p01": "Dotamos a las empresas de un control a los accesos físicos de sus instalaciones o propiedades, permitiendo una administración y control en tiempo real.",
+        "p02": "El sistema controla el acceso de puertas, cerraduras, domicilios, cajas fuertes, remolques de camiones, puertas de garaje, acceso a fincas comunitarias… El cliente podrá controlar a qué acceden sus empleados, desde dónde acceden, en qué horario lo hacen, y lo más importante, QUIEN ACCEDE, ya que todas las aperturas se realizan con biometría. Esto proporciona una seguridad máxima, y sólo podrá acceder la persona autorizada real.",
+        "p03": "El proceso es sencillo: Basta con aproximar el móvil del usuario dado de alta en el sistema, y éste detectará que quiere acceder, en ese momento se comprobará mediante biometría, qué usuario es, comprobando si éste tiene el acceso autorizado.",
+        "p04": "El sistema dispone de revocación de permisos de accesos en tiempo real. Para que en el caso que un empleado deje de formar parte de la plantilla, se pueda dar de baja tan sólo eliminado sus permisos."
     },
     "service08": {
         "title": "",
