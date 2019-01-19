@@ -66,12 +66,10 @@
         "p04": "El sistema dispone de revocación de permisos de accesos en tiempo real. Para que en el caso que un empleado deje de formar parte de la plantilla, se pueda dar de baja tan sólo eliminado sus permisos."
     },
     "service08": {
-        "title": "",
-        "p01": "",
-        "p02": "",
-        "p03": "",
-        "p04": "",
-        "p05": ""
+        "title": "Experiencia en segmentación",
+        "p01": "El objetivo del departamento es el estudio y análisis de los clientes offline. El retail se dio cuenta que disponían de más información del cliente online que del propio cliente de tienda, y eso que éste suponía el 91% de la facturación.",
+        "p02": "<strong>Conocimiento cliente Online:</strong> tiempo de compra, recurrencia a la web, mapa de calor, productos vistos, productos comprados, productos no comprados",
+        "p03": "<strong>Conocimiento cliente Offline:</strong> tiempo de compra, recurrencia a la tienda, mapa de calor, productos vistos, productos comprados, productos no comprados"
     },
     "service09": {
         "title": "",
