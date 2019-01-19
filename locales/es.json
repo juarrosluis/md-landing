@@ -45,12 +45,11 @@
         "p04": "Además, todos los proyectos disponen de un auditor de código para detectar posibles brechas de seguridad que deban ser corregidas. "
     },
     "service05": {
-        "title": "",
-        "p01": "",
-        "p02": "",
-        "p03": "",
-        "p04": "",
-        "p05": ""
+        "title": "Bookmark y Control de accesos",
+        "p01": "Fruto de nuestro I+D, pretende resolver una gran necesidad del mercado que es el uso de las contraseñas, al ser fácilmente susceptibles de ser intercambiadas o robadas. ",
+        "p02": "Este sistema elimina el uso de contraseñas al proporcionar, al usuario, un portal web donde residen todas las aplicaciones corporativas. En este portal tiene que iniciar sesión biométricamente con su terminal móvil, siguiendo un proceso muy parecido al de doble autenticación que implementan algunas empresas con la diferencia de que, en este caso, únicamente es necesario un paso, ya que comprobamos la identidad de la persona biométricamente.",
+        "p03": "Además, este aplicativo aporta un ahorro de coste directo en las empresas gracias a que, con tan solo dar de baja en este sistema al usuario, automáticamente será dado de baja en todos los sistemas en los que estuviera dado de alta.",
+        "p04": "La principal ventaja de esta solución es la desaparición del problema de robo de credenciales, ya que dotamos a la empresa de una capa intermedia, en la cual se accede a los sistemas por biometría, aumentado la seguridad de los accesos e impidiendo los robos de información, tanto de externos como de personal interno, ya sea por descuido o por un uso indebido."
     },
     "service06": {
         "title": "",
