@@ -99,29 +99,5 @@
         "p01": "Los cursos de formación enseñan los pilares básicos de la Ciberseguridad a nivel corporativo y personal, aprendiendo a identificar los diferentes ataques y qué medidas tomar tanto a nivel hardware como procedimental. ",
         "p02": "En estos cursos se aprenderán las diferentes técnicas de identificación de amenazas, las medidas de protección y medidas de mitigación de impacto para compañías con perfil de PYME o de gran empresa.",
         "p03": "Las jornadas de concienciación se fundamentan en enseñar a identificar, en una sola jornada, los principales vectores de ataque, cómo prevenirse de ellos y qué medidas deben tomarse para protegerse. Las jornadas se orientan según diferentes perfiles de usuario (alta dirección, equipo IT y resto de empleados), de manera amena y divertida, exponiendo diferentes ejemplos que hagan sencillo su entendimiento y el impacto de un posible ciberataque."
-    },
-    "service13": {
-        "title": "",
-        "p01": "",
-        "p02": "",
-        "p03": "",
-        "p04": "",
-        "p05": ""
-    },
-    "service14": {
-        "title": "",
-        "p01": "",
-        "p02": "",
-        "p03": "",
-        "p04": "",
-        "p05": ""
-    },
-    "service15": {
-        "title": "",
-        "p01": "",
-        "p02": "",
-        "p03": "",
-        "p04": "",
-        "p05": ""
     }
 }

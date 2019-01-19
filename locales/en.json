@@ -11,82 +11,92 @@
         "contact": "Contact Us"
     },
     "service01": {
-        "title": "About Us",
-        "p01": "Our Services",
-        "p02": "Contact Us",
-        "p03": "Contact Us",
-        "p04": "Contact Us",
-        "p05": "Contact Us"
+        "title": "Secure Document Protection",
+        "p01": "We protect companies from information leakage, either by data theft or loss of information, by encrypting the company's most sensitive documents and defining access privileges to the selected people.",
+        "p02": "The most relevant about this system is that users do not have to remember passwords since, every time they want to open a document, they receive a notification on their mobile device to log in biometrically. Once the session is started, the document will be decrypted to become readable until it is closed again.",
+        "p03": "The great advantage is that the documents of the company are encrypted, managed with access policies (read only, reading and writing, printing ...) as well as checks for timetables and geo-positioning, verifying if you the document is opened from an authorized location.",
+        "p04": "In addition, the solution integrates a Threat Intelligence engine which verifies if the IP from where the client tries to perform the access is malicious. It is possible also to add blacklists of IPs which are known dangerous.",
+        "p05": "Another additional value is that the administrator user have traceability capacity to know who, when and where the document has been opened."
     },
     "service02": {
-        "title": "Control de validaciones y transacciones",
-        "p01": "Control de las operaciones más críticas del negocio como pueden ser las transacciones bancarias.",
-        "p02": "El procedimiento es que la empresa establezca un importe máximo por operación de manera que, cuando éste sea superado, se conectará con nuestro módulo de validación y notificará, vía APP, a los responsables para que validen la operación.",
-        "p03": "Esta validación dispone de reglas de negocio tales como: validación por biometría, control de horarios, control por geolocalización, lista negras de IP",
-        "p04": "Este Servicio puede ser consumido por cualquier aplicación de la empresa, al disponer de una API de acceso."
+        "title": "Control of validations and transactions",
+        "p01": "Control of the most critical operations of the business, such as banking transactions.",
+        "p02": "A use case is to confirm the banking transactions whose amount exceeds a limit. If this happens, the system connects to our validation module and it sends push notifications to the devices owned by the users who need to validate the operation. Once the users verify their identity using biometry, the transaction will be executed.",
+        "p03": "This validation has business rules such as: Biometric validation, Schedule control, Geolocation control, IP blacklist",
+        "p04": "This Service can be consumed by any application of the company, since it has an access API."
     },
     "service03": {
-        "title": "",
-        "p01": "",
-        "p02": "",
-        "p03": "",
-        "p04": "",
-        "p05": ""
+        "title": "Blockchain",
+        "p01": "We are pioneers in this technology and we have our own services, based on Ethereum, Nxt and Ardor technologies, working and using their advantages.",
+        "p02": "Blockchain technology can be used to control access (preventing any deletion or change of information on access logs), to solve the difficulties that may arise along the supply chain in logistics, to have total control of the economic transactions of the company with unalterable accounting notebooks, and even to avoid the biggest burden that hinders all processes: paper.",
+        "p03": "<strong>Efficiency:</strong> Transactions are carried out directly between the involved parties, without intermediaries and with digitized information, so the settlement of the transaction is fast. In addition, it has the capacity to operate 'smart contracts' that automatically activate commercial actions based on satisfying the criteria established in the contract, drastically simplifying the processes and eliminating the time and cost of the transaction.",
+        "p04": "<strong>Auditability:</strong> As each transaction is recorded sequentially and indefinitely, it provides an indelible audit trail for the life of an asset, even between the parties. This is especially important if the source data is essential to verify the authenticity of the assets.",
+        "p05": "<strong>Traceability:</strong> The status of the transaction is tracked. The information relative to the component can be retransmitted to the owner, or vice versa, for a possible action.",
+        "p06": "<strong>Transparency:</strong> Provides details of transactions, increases confidence in the process and generates more stable relationships based on transparency instead of negotiation.",
+        "p07": "<strong>Security:</strong> Each transaction is verified within the network using complex, independently verified cryptography. The authenticity of the information can be assured.",
+        "p08": "<strong>Feedback:</strong> Performs full traceability throughout the life cycle of each transaction. In this way you can know, for example, where the merchandise is being transported, reducing the time and costs, or even knowing the status of each of the company's economic transactions."
     },
     "service04": {
-        "title": "",
-        "p01": "",
-        "p02": "",
-        "p03": "",
-        "p04": "",
-        "p05": ""
+        "title": "Development Services",
+        "p01": "These Services are one of the pillars of our Company as we implement 'agile methodology' in all developments.",
+        "p02": "We are experts in mobile applications (IOS and Android) and WEB developments, both in standard CMS platforms and customized ones.",
+        "p03": "All of our development projects have a strict quality control and error control. Our developers are trained specifically in cybersecurity and they strictly follow the safe development guidelines such as OWASP.",
+        "p04": "In addition, all projects have a code auditor to detect possible security breaches that must be corrected."
     },
     "service05": {
-        "title": "",
-        "p01": "",
-        "p02": "",
-        "p03": "",
-        "p04": "",
-        "p05": ""
+        "title": "Bookmark and Access Control",
+        "p01": "This system eliminates the use of passwords by providing the user with a web portal where all corporate applications reside. In this website you have to log in biometrically with your mobile device and follow a process very similar to the double authentication that some companies implement. What is different here is that only one step is necessary, as we verify the identity of the person biometrically",
+        "p02": "In addition, this application provides direct cost savings in companies thanks to the fact that, by only deleting the user in this system, it will automatically be discharged in all the systems in which it was registered.",
+        "p03": "The main advantage of this solution is the disappearance of the problem of theft of credentials, since we provide the company with an intermediate layer, in which systems are accessed by biometrics, increasing the security of access and preventing theft of information.",
+        "p04": ""
     },
     "service06": {
-        "title": "",
-        "p01": "",
-        "p02": "",
-        "p03": "",
-        "p04": "",
-        "p05": ""
+        "title": "Geopositioning Service",
+        "p01": "<strong>Smart beacon service:</strong> this service solves a great need in the market by helping the automation of logistics and transport companies.",
+        "p02": "<strong>Location of the BLE beacons</strong>, using antennas located in the loading docks, ports, trucks, vans, warehouses ... We manage, in an agile way, to control the merchandise, being able to register any product automatically and, in addition, locate it. For other limited scenarios, we use mobile devices of employees to perform this same operation.",
+        "p03": "<strong>Use of GPS technology</strong>, to geolocate the products. It is intended for sensitive or high-cost products, by facilitating the position of the product at any time and not only when it changes its location (main difference with the beacon detection solution, since it offers a continuous traceability of the product, throughout the logistics process and transportation).",
+        "p04": "The traceability system of the products is implemented on the Blockchain architecture, giving integrity of the stored data and offering process automation. The efficiency in the operation significantly saves the costs of the logistics companies."
     },
     "service07": {
-        "title": "",
-        "p01": "",
-        "p02": "",
-        "p03": "",
-        "p04": "",
-        "p05": ""
+        "title": "Smart Locks",
+        "p01": "We provide companies with a control over the physical access of their facilities or properties, allowing management and control in real time.",
+        "p02": "The system controls the access of doors, locks, homes, safes, truck trailers, garage doors, access to community farms ... The customer can control where their employees can access, where they access from, what time they do it, and WHO'S ACCESSING, since all the openings are done with biometrics. This provides maximum security, and only the actual authorized person can access it.",
+        "p03": "The process is simple: the user brings his registered mobile device to the door, and the system will check if this person can open this door. If he is allowed to do this, he will receive a push notification on his mobile device asking for his biometrical data. If everything is fine, the door will be opened.",
+        "p04": "The system has revocation of access permissions in real time. So that in case an employee does not belong to the organization anymore, his permissions will be revoked."
     },
     "service08": {
-        "title": "",
-        "p01": "",
-        "p02": "",
-        "p03": "",
-        "p04": "",
-        "p05": ""
+        "title": "Segmentation Experience",
+        "p01": "<strong>R & D Department</strong> the objective of the department is the study and analysis of offline clients. The retail realized that they had more information about the online customer than the store customers, and that this accounted for 91% of the billing.",
+        "p02": "<strong>Knowledge of online clients:</strong> Purchase time, Recurrence on the web, Heat map, Browsed products, purchased, not purchased",
+        "p03": "<strong>Knowledge of offline clients:</strong> Purchase time, Recurrence on the store, Heat map, Browsed products, purchased, not purchased"
     },
     "service09": {
-        "title": "",
-        "p01": "",
-        "p02": "",
-        "p03": "",
-        "p04": "",
-        "p05": ""
+        "title": "Segmentation Services",
+        "p01": "<strong>Knowledge of the clients:</strong> the objective is to know better the behavior of the customers in the stores to elaborate customized products.",
+        "p02": "<strong>Customer segmentation:</strong> through image analytics we know who our clients are (sex, age range, mood).",
+        "p03": "<strong>CDI:</strong> the objective of digital signage is to be able to offer personalized products to our customers, by segmenting them in real time, achieving an increase in sales.",
+        "p04": "<strong>Heat maps:</strong> through zenith cameras and integrating this technology with segmentation, we know how different types of customers move through stores and how long they are in each area.",
+        "p05": "<strong>Recurrence of the clients:</strong> using a non-intrusive WIFI scan, we detect the mobile devices of the clients, identifying them univocally. In this way we know the recurrence of the client and the average time of stay in each department.",
+        "p06": "With the analysis of all these actions, the business and marketing departments can perform actions aimed at particular segment so they are more effective in each campaign.",
+        "p07": "<strong>Knowledge of customers through WIFI:</strong> One of the main objectives is to offer our customers free WIFI in the shopping centers, since it is a service increasingly demanded. In addition, the following benefits are achieved: lead of clients / users, recurrence to the store, how long they stay in one place, location by areas, user navigation behavior, promotions by geopositioning, client analysis (OS language, mobile brand and model ...), alerts to the security through the recognition of terminals. All these actions are coordinated with the business and marketing departments, although more and more departments request access to information, as it is valuable for the business.",
+        "p08": "<strong>Touch point actions</strong> Another of the main objectives is to promote omnichannel and the creation of points of contact between the company and the client, since these points allow the company to create a multidirectional link with the customers. In this way, we know how, and which channels, the company needs to use to achieve greater visibility and positioning. It is possible generate promotions to attract customers to the store by using touch screens to interact with them. Promotions were also made only for customers who are in a certain area depending on their location and their segmentation."
     },
     "service10": {
-        "title": "",
-        "p01": "",
-        "p02": "",
-        "p03": "",
-        "p04": "",
-        "p05": ""
+        "title": "Communication Security and Cybersecurity",
+        "p01": "The included services are Auditing, Architecture, Installation, Maintenance and Support.",
+        "p02": "The Support service is offered in 24x7 mode and is designed to solve any type of incident that directly affects the communication systems in production, in order to avoid loss of service.",
+        "p03": "<strong>Competencies:</strong> Networking, Perimeter security, Antivirus, Data protection, Systems",
+        "p04": "We work with leading manufacturers in the market such as: Fortinet, Paloalto, Checkpoint, Mcafee, Cisco, IBM, Kaspersky."
+    },
+    "service11": {
+        "title": "Cybersecurity Audits",
+        "p01": "The Cybersecurity Audits show the state of securization of the information systems, identifying the vulnerabilities found in: Internal infrastructure, Perimeter infrastructure, Websites, Forensic analysis, Application code",
+        "p02": "Performing audits continuously ensures the integrity of security controls applied to information systems, assessing the risk of the company, and allowing preventive measures."
+    },
+    "service12": {
+        "title": "Training Courses and Days of Awareness in Cybersecurity",
+        "p01": "Training courses teach the basic pillars of Cybersecurity at a corporate and personal level, teaching on how to identify the different attacks and what to do to avoid them at hardware and procedural level.",
+        "p02": "In these courses the student will learn the techniques of identification of threats, protection measures and impact mitigation measures for companies with a SME or large company profile.",
+        "p03": "The awareness days teach how to identify, in a single day, the main vectors of attack, how to prevent them and what measures should be taken to protect themselves. The days are oriented according to different user profiles (senior management, IT team and other employees), in a fun and entertaining way, exposing different examples that make their understanding and the impact of a possible cyber-attack."
     }
 }
