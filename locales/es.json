@@ -90,12 +90,9 @@
         "p04": "Trabajamos con fabricantes líderes en el mercado como: Fortinet, Paloalto, Checkpoint, Mcafee, Cisco, IBM, Kaspersky"
     },
     "service11": {
-        "title": "",
-        "p01": "",
-        "p02": "",
-        "p03": "",
-        "p04": "",
-        "p05": ""
+        "title": "Auditorías de Ciberseguridad",
+        "p01": "Las Auditorías de Ciberseguridad se encargan de realizar evaluaciones del estado de securización de los sistemas de información, para identificar, enumerar y describir las diversas vulnerabilidades encontradas en: Infraestructura interna, Infraestructura perimetral, Páginas web, Análisis forense, Código de aplicaciones",
+        "p02": "Realizar auditorías de manera continua asegura la integridad de los controles de seguridad aplicados a los sistemas de información, evaluando el  riesgo de la empresa, y permitiendo adoptar medidas preventivas."
     },
     "service12": {
         "title": "",
