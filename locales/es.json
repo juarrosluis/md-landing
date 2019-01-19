@@ -78,9 +78,50 @@
         "p03": "<strong>CDI:</strong> el objetivo de la cartelería digital es poder ofrecer productos personalizados a nuestros clientes, mediante la segmentación de los mismos en tiempo real, consiguiendo un aumento de las ventas.",
         "p04": "<strong>Mapas de calor:</strong> mediante cámaras cenitales y coordinando esta tecnología con la de segmentación, conocemos de qué manera se mueven los distintos tipos de clientes por las tiendas y cuanto tiempo están en cada área.",
         "p05": "<strong>Recurrencia de los clientes:</strong> mediante un escaneo WIFI en modo no intrusivo, detectamos los dispositivos móviles de los clientes identificándolos de manera unívoca, de esta forma conocemos la recurrencia del cliente y el tiempo medio de estancia en cada departamento.",
-        "p06": "Con la analítica de todas estas acciones, el departamento de negocio y de marketing pueden realizar acciones dirigidas a segmentos en particular, de esta manera se consigue ser mucho más efectivo en cada campaña."
+        "p06": "Con la analítica de todas estas acciones, el departamento de negocio y de marketing pueden realizar acciones dirigidas a segmentos en particular, de esta manera se consigue ser mucho más efectivo en cada campaña.",
+        "p07": "<strong>Conocimiento de los clientes mediante la WIFI: </strong> uno de los principales objetivos es ofrecer a nuestros clientes WIFI gratuito en los centros comerciales, ya que es un servicio cada vez más demandado (Lead de clientes/ usuarios, Recurrencia a la tienda, Tiempo de permanencia, Localización por áreas, Comportamiento de navegación de los usuarios, Posibilidad de realizar promociones por geoposicionamiento, Análisis del cliente (Lenguaje del SO, marca y modelo del móvil…), Alertas al departamento de seguridad de posibles sospechosos mediante el reconocimiento de terminales, Todas estas acciones se coordinan con los departamentos de negocio y marketing, aunque cada vez más departamentos solicitan acceso a la información, ya que es valiosa para el negocio)",
+        "p08": "<strong>Acciones de touch point:</strong> Otro de los principales objetivos es fomentar la omnicanalidad y la creación de puntos de contacto entre la empresa y el cliente, ya que estos puntos nos permiten crear un vínculo multidireccional con él. De esta manera, sabemos cómo, y a través de qué canales, debemos introducir nuestra marca en sus rutas, logrando una mayor visibilidad y posicionamiento. Generamos promociones para atraer clientes a la tienda, una vez allí nos apoyamos de pantallas táctiles para interactuar con los clientes. También se realizaban promociones sólo para clientes que están en una determinada área en función de su ubicación y de su segmentación."
     },
     "service10": {
+        "title": "Seguridad en Comunicaciones y Ciberseguridad",
+        "p01": "Los Servicios que engloba son Auditoría, Arquitectura, Instalación, Mantenimiento y Soporte. ",
+        "p02": "El servicio de Soporte se ofrece en modalidad (24x7) y está diseñado para solventar cualquier tipo de incidencia que afecte directamente a los sistemas de comunicaciones en producción, con el fin de evitar pérdidas de servicio.",
+        "p03": "<strong>Competencias:</strong> Networking, Seguridad perimetral, Antivirus, Protección del dato, Sistemas",
+        "p04": "Trabajamos con fabricantes líderes en el mercado como: Fortinet, Paloalto, Checkpoint, Mcafee, Cisco, IBM, Kaspersky"
+    },
+    "service11": {
+        "title": "",
+        "p01": "",
+        "p02": "",
+        "p03": "",
+        "p04": "",
+        "p05": ""
+    },
+    "service12": {
+        "title": "",
+        "p01": "",
+        "p02": "",
+        "p03": "",
+        "p04": "",
+        "p05": ""
+    },
+    "service13": {
+        "title": "",
+        "p01": "",
+        "p02": "",
+        "p03": "",
+        "p04": "",
+        "p05": ""
+    },
+    "service14": {
+        "title": "",
+        "p01": "",
+        "p02": "",
+        "p03": "",
+        "p04": "",
+        "p05": ""
+    },
+    "service15": {
         "title": "",
         "p01": "",
         "p02": "",
