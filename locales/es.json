@@ -72,12 +72,13 @@
         "p03": "<strong>Conocimiento cliente Offline:</strong> tiempo de compra, recurrencia a la tienda, mapa de calor, productos vistos, productos comprados, productos no comprados"
     },
     "service09": {
-        "title": "",
-        "p01": "",
-        "p02": "",
-        "p03": "",
-        "p04": "",
-        "p05": ""
+        "title": "Servicios en la segmentación",
+        "p01": "<strong>Conocimiento de los clientes:</strong> el objetivo es conocer mejor el comportamiento de los clientes en las tiendas, para ello elaboramos productos a medida.",
+        "p02": "<strong>Segmentación de los clientes:</strong> mediante analítica de imagen conocemos quienes son nuestros clientes (sexo, rango de edad, estado anímico).",
+        "p03": "<strong>CDI:</strong> el objetivo de la cartelería digital es poder ofrecer productos personalizados a nuestros clientes, mediante la segmentación de los mismos en tiempo real, consiguiendo un aumento de las ventas.",
+        "p04": "<strong>Mapas de calor:</strong> mediante cámaras cenitales y coordinando esta tecnología con la de segmentación, conocemos de qué manera se mueven los distintos tipos de clientes por las tiendas y cuanto tiempo están en cada área.",
+        "p05": "<strong>Recurrencia de los clientes:</strong> mediante un escaneo WIFI en modo no intrusivo, detectamos los dispositivos móviles de los clientes identificándolos de manera unívoca, de esta forma conocemos la recurrencia del cliente y el tiempo medio de estancia en cada departamento.",
+        "p06": "Con la analítica de todas estas acciones, el departamento de negocio y de marketing pueden realizar acciones dirigidas a segmentos en particular, de esta manera se consigue ser mucho más efectivo en cada campaña."
     },
     "service10": {
         "title": "",
