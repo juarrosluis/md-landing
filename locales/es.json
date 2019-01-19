@@ -38,12 +38,11 @@
     
     },
     "service04": {
-        "title": "",
-        "p01": "",
-        "p02": "",
-        "p03": "",
-        "p04": "",
-        "p05": ""
+        "title": "Servicios de desarrollo",
+        "p01": "Estos Servicios son uno de los pilares de nuestra Empresa ya que implementamos “metodología ágil” en todos los desarrollos. ",
+        "p02": "Somos expertos en aplicativos móviles (IOS y Android) y desarrollos WEB, tanto en plataformas de CMS del mercado como a medida.",
+        "p03": "Todos nuestros proyectos de desarrollo disponen de un estricto control de calidad y control de errores, además de ser implementados por desarrolladores formados de manera específica en ciberseguridad y que siguen estrictamente las guías de desarrollo seguro como OWASP. ",
+        "p04": "Además, todos los proyectos disponen de un auditor de código para detectar posibles brechas de seguridad que deban ser corregidas. "
     },
     "service05": {
         "title": "",
