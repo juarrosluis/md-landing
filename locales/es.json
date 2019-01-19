@@ -26,12 +26,16 @@
         "p04": "Este Servicio puede ser consumido por cualquier aplicación de la empresa, al disponer de una API de acceso."
     },
     "service03": {
-        "title": "",
-        "p01": "",
-        "p02": "",
-        "p03": "",
-        "p04": "",
-        "p05": ""
+        "title": "Blockchain",
+        "p01": "Somos pioneros en esta tecnología y disponemos de servicios propios, basados en tecnologías Ethereum, Nxt y Ardor, en funcionamiento y beneficiándose de sus ventajas.",
+        "p02": "La tecnología Blockchain puede ser utilizada para el control de accesos (impidiendo cualquier borrado o cambio de información de los logs de acceso), resolver las complicaciones que pueden surgir a lo largo de la cadena de suministro del sector logístico, disponer de un control total de las transacciones económicas de la compañía con cuadernos contables inalterables, e incluso evitar el mayor lastre que dificulta todos los procesos: el papel. ",
+        "p03": "<strong>Eficiencia:</strong> Las transacciones se realizan directamente entre las partes interesadas, sin intermediario y con información digitalizada por lo que, la liquidación de la transacción es rápida. Además, tiene la capacidad de operar “contratos inteligentes” que activan automáticamente acciones comerciales basadas en satisfacer los criterios establecidos en el contrato, simplificando drásticamente los procesos y eliminando el tiempo y coste de la transacción.",
+        "p04": "<strong>Auditabilidad:</strong> Como cada transacción se registra secuencial e indefinidamente, proporciona una pista de auditoría indeleble para la vida de un activo, incluso entre las partes. Esto es especialmente importante si los datos de origen son esenciales para verificar la autenticidad de los activos.",
+        "p05": "<strong>Trazabilidad:</strong> Se realiza un seguimiento del estado de la transacción. La información relativa al componente puede ser retransmitida al propietario, o viceversa, para una posible acción.",
+        "p06": "<strong>Transparencia:</strong> Proporciona detalles de las transacciones, aumenta la confianza en el proceso y genera relaciones más estables y basadas en la transparencia en lugar de la negociación.",
+        "p07": "<strong>Seguridad:</strong> Cada transacción se verifica dentro de la red utilizando criptografía compleja independientemente verificada. La autenticidad de la información puede estar asegurada.",
+        "p08": "<strong>Feedback:</strong> Lleva a cabo una trazabilidad completa durante todo el ciclo de vida de cada transacción. De este modo se puede conocer, por ejemplo, en qué lugar se encuentra la mercancía que se está transportando, reduciéndose los tiempos y costes, o incluso conocer el estado de cada una de las transacciones económicas de la compañía."
+    
     },
     "service04": {
         "title": "",
