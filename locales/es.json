@@ -1,7 +1,7 @@
 {
     "header-04": {
         "bigText": "Desarrollo de Software de Alto Rendimiento",
-        "smallText": "Innovacion Ciberseguridad Soluciones",
+        "smallText": "Innovación Ciberseguridad Soluciones",
         "leftButtonText": "Contacto",
         "rightButtonText": "Saber más"
     },
@@ -9,5 +9,84 @@
         "about": "Sobre Nosotros",
         "services": "Nuestros Servicios",
         "contact": "Contáctanos"
+    },
+    "service01": {
+        "title": "Protección segura de documentos",
+        "p01": "Protegemos a las empresas de la fuga de información, ya sea por robo de datos o por pérdida de información, mediante el cifrado de los documentos más sensibles de la compañía y definiendo privilegios de acceso a las personas que se estipule.",
+        "p02": "Lo relevante de este sistema es que los usuarios no tienen que recordar la contraseña ya que, cada vez que se quiera abrir un documento, el usuario recibirá una notificación en su terminal móvil para que inicie sesión biométricamente. Una vez se haya iniciado sesión, el documento se descifrará para hacerse legible hasta que vuelva a ser cerrado.",
+        "p03": "La gran ventaja es que los documentos de la empresa se encuentran protegidos además de asignarse políticas de acceso (sólo lectura, lectura y escritura, impresión…) y comprobaciones por tramos horarios y geoposicionamiento, verificándose si se está abriendo desde una ubicación autorizada.",
+        "p04": "Además, la solución integra un motor de Threat Intelligence donde se comprueba que la IP desde donde se intenta realizar el acceso no sea maliciosa, pudiéndose también añadir listas negras para bloqueo de aquellas que se conozcan como peligrosas.",
+        "p05": "Otro valor adicional es que el usuario protector dispondrá de capacidad de trazabilidad para saber quien ha abierto el documento, cuándo y desde dónde."
+    },
+    "service02": {
+        "title": "Control de validaciones y transacciones",
+        "p01": "Control de las operaciones más críticas del negocio como pueden ser las transacciones bancarias.",
+        "p02": "El procedimiento es que la empresa establezca un importe máximo por operación de manera que, cuando éste sea superado, se conectará con nuestro módulo de validación y notificará, vía APP, a los responsables para que validen la operación.",
+        "p03": "Esta validación dispone de reglas de negocio tales como: validación por biometría, control de horarios, control por geolocalización, lista negras de IP",
+        "p04": "Este Servicio puede ser consumido por cualquier aplicación de la empresa, al disponer de una API de acceso."
+    },
+    "service03": {
+        "title": "",
+        "p01": "",
+        "p02": "",
+        "p03": "",
+        "p04": "",
+        "p05": ""
+    },
+    "service04": {
+        "title": "",
+        "p01": "",
+        "p02": "",
+        "p03": "",
+        "p04": "",
+        "p05": ""
+    },
+    "service05": {
+        "title": "",
+        "p01": "",
+        "p02": "",
+        "p03": "",
+        "p04": "",
+        "p05": ""
+    },
+    "service06": {
+        "title": "",
+        "p01": "",
+        "p02": "",
+        "p03": "",
+        "p04": "",
+        "p05": ""
+    },
+    "service07": {
+        "title": "",
+        "p01": "",
+        "p02": "",
+        "p03": "",
+        "p04": "",
+        "p05": ""
+    },
+    "service08": {
+        "title": "",
+        "p01": "",
+        "p02": "",
+        "p03": "",
+        "p04": "",
+        "p05": ""
+    },
+    "service09": {
+        "title": "",
+        "p01": "",
+        "p02": "",
+        "p03": "",
+        "p04": "",
+        "p05": ""
+    },
+    "service10": {
+        "title": "",
+        "p01": "",
+        "p02": "",
+        "p03": "",
+        "p04": "",
+        "p05": ""
     }
 }

@@ -2285,11 +2285,11 @@ button.button {
   background-size: cover;
   background-position: center bottom;
   background-repeat: no-repeat;
-  background-color: #4D61FC;
+  background-color: rgb(38, 54, 129);
   text-align: center; }
 
 .header-04__overlay, .header-16__overlay, .header-17__overlay, .header-55__overlay {
-  background-color: rgba(77, 97, 252, 0.75); }
+  background-color: rgba(38, 64, 129, 0.75); }
 
 .header-18__overlay {
   background-color: rgba(48, 48, 48, 0.8); }
@@ -2891,7 +2891,7 @@ button.button {
 
 .header-29 {
   position: relative;
-  padding-bottom: 100px;
+  padding-bottom: 75px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat; }
@@ -2906,19 +2906,19 @@ button.button {
   bottom: 0;
   top: 0;
   margin: auto;
-  background-color: rgba(0, 0, 0, 0.75); }
+  background-color: rgba(0, 0, 0, 0.5); }
 
 .header-29__container {
   position: relative;
   z-index: 10;
-  padding-top: 140px;
-  text-align: center; }
+  padding-top: 75px;
+  text-align: left; }
   @media (max-width: 770px) {
     .header-29__container {
       padding-top: 100px; } }
 
 .header-29__text_box {
-  max-width: 450px;
+  max-width: 1000px;
   margin-left: auto;
   margin-right: auto; }
 

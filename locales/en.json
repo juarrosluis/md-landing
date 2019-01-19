@@ -9,5 +9,84 @@
         "about": "About Us",
         "services": "Our Services",
         "contact": "Contact Us"
+    },
+    "service01": {
+        "title": "About Us",
+        "p01": "Our Services",
+        "p02": "Contact Us",
+        "p03": "Contact Us",
+        "p04": "Contact Us",
+        "p05": "Contact Us"
+    },
+    "service02": {
+        "title": "Control de validaciones y transacciones",
+        "p01": "Control de las operaciones más críticas del negocio como pueden ser las transacciones bancarias.",
+        "p02": "El procedimiento es que la empresa establezca un importe máximo por operación de manera que, cuando éste sea superado, se conectará con nuestro módulo de validación y notificará, vía APP, a los responsables para que validen la operación.",
+        "p03": "Esta validación dispone de reglas de negocio tales como: validación por biometría, control de horarios, control por geolocalización, lista negras de IP",
+        "p04": "Este Servicio puede ser consumido por cualquier aplicación de la empresa, al disponer de una API de acceso."
+    },
+    "service03": {
+        "title": "",
+        "p01": "",
+        "p02": "",
+        "p03": "",
+        "p04": "",
+        "p05": ""
+    },
+    "service04": {
+        "title": "",
+        "p01": "",
+        "p02": "",
+        "p03": "",
+        "p04": "",
+        "p05": ""
+    },
+    "service05": {
+        "title": "",
+        "p01": "",
+        "p02": "",
+        "p03": "",
+        "p04": "",
+        "p05": ""
+    },
+    "service06": {
+        "title": "",
+        "p01": "",
+        "p02": "",
+        "p03": "",
+        "p04": "",
+        "p05": ""
+    },
+    "service07": {
+        "title": "",
+        "p01": "",
+        "p02": "",
+        "p03": "",
+        "p04": "",
+        "p05": ""
+    },
+    "service08": {
+        "title": "",
+        "p01": "",
+        "p02": "",
+        "p03": "",
+        "p04": "",
+        "p05": ""
+    },
+    "service09": {
+        "title": "",
+        "p01": "",
+        "p02": "",
+        "p03": "",
+        "p04": "",
+        "p05": ""
+    },
+    "service10": {
+        "title": "",
+        "p01": "",
+        "p02": "",
+        "p03": "",
+        "p04": "",
+        "p05": ""
     }
 }
