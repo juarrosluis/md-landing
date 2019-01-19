@@ -52,12 +52,11 @@
         "p04": "La principal ventaja de esta solución es la desaparición del problema de robo de credenciales, ya que dotamos a la empresa de una capa intermedia, en la cual se accede a los sistemas por biometría, aumentado la seguridad de los accesos e impidiendo los robos de información, tanto de externos como de personal interno, ya sea por descuido o por un uso indebido."
     },
     "service06": {
-        "title": "",
-        "p01": "",
-        "p02": "",
-        "p03": "",
-        "p04": "",
-        "p05": ""
+        "title": "Servicio de Geoposicionamiento",
+        "p01": "<strong>Servicio inteligente de balizas:</strong> fruto de nuestro I+D, resuelve una gran necesidad del mercado al ayudar a la automatización de las empresas de logística y de transporte.",
+        "p02": "<strong>Localización de las balizas BLE</strong>, mediante antenas situadas en los muelles de carga, puertos, camiones, furgonetas, almacenes… Conseguimos de manera ágil, controlar las mercancías, consiguiendo dar de alta cualquier producto de forma automática y, además, localizarlo. Para otro tipo de escenarios más acotados, utilizamos los terminales móviles de los empleados para realizar esta misma operativa.                                                                                                                        ",
+        "p03": "<strong>Utilización de tecnología GPS</strong>, para geoposicionar los productos. Está destinado a productos sensibles o de alto coste, al facilitar la posición del producto en cualquier momento y no sólo cuando cambia de ubicación (diferencia principal con la solución de detección de balizas, ya que esta ofrece una trazabilidad continua del producto, en todo el proceso de logística y transporte).",
+        "p04": "El sistema de trazabilidad de los productos está diseñado bajo la arquitectura de Blockchain, dando integridad de los datos almacenados y ofreciendo automatización de los procesos. La eficiencia en la operativa ahorra de manera significativa los costes de las empresas de logística."
     },
     "service07": {
         "title": "",
